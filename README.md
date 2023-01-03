@@ -1,9 +1,9 @@
 # DropDownPicker
 Simple React Native component
 # How to use
-Create 3 states:\n
-open - boolean, if true - show dropdown list\n
-list - array of items for dropdown list\n
+Create 3 states:  
+open - boolean, if true - show dropdown list  
+list - array of items for dropdown list  
 selection - array for selected items
 # Example
 ```
